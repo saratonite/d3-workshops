@@ -1,8 +1,9 @@
 
 
 document.addEventListener('DOMContentLoaded',function(){
-  console.log('App started');
+
   generateChart();
+
 });
 
 var data = [

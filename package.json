@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "intro": "lite-server 00-intro",
-    "01": "lite-server 01-Static-chart"
+    "00": "lite-server 00-intro",
+    "01": "lite-server 01-data-binding",
+    "02": "lite-server 02-static-chart"
   },
   "author": "sarath",
   "license": "MIT",

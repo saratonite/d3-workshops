@@ -1,0 +1,21 @@
+.chart{
+  height: 300px;
+  width: 300px;
+  background: #ccc;
+}
+
+.chart ul{
+
+  background-color: orange;
+  list-style: none;
+}
+.chart li{
+  margin: 5px;
+  background: #f56;
+  padding: 5px;
+  border-radius: 5px;
+
+}
+.big{
+  font-size: 20px;
+}
