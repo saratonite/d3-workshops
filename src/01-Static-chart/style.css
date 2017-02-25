@@ -2,11 +2,16 @@
   height: 300px;
   width: 300px;
   background: #ccc;
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+padding: 5px;
 }
 
 .chart ul{
 
   list-style: none;
+
 }
 .chart li{
   padding: 5px;
