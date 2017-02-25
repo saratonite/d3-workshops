@@ -1,0 +1,17 @@
+{
+  "name": "d3-workshops",
+  "version": "1.0.0",
+  "description": "D3 experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "intro": "lite-server 00-intro",
+    "01": "lite-server 01-Static-chart"
+  },
+  "author": "sarath",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "lite-server": "^2.2.2"
+  }
+}
