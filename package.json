@@ -9,7 +9,9 @@
     "01": "lite-server 01-data-binding",
     "02": "lite-server 02-static-chart",
     "03": "lite-server 03-draw-svg",
-    "04": "lite-server 04-bar-chart"
+    "04": "lite-server 04-bar-chart",
+    "05": "lite-server 05-scale",
+    "06": "lite-server 06-stacked-bar-chart"
   },
   "author": "sarath",
   "license": "MIT",
