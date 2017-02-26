@@ -19,3 +19,7 @@ https://github.com/dc-js/dc.js/issues/1173
 
 [D3 v4 Stacked Bar chart :)](https://bl.ocks.org/DimsumPanda/689368252f55179e12185e13c5ed1fee)
 [D3 v4 Multi-Series Line Chart ](https://bl.ocks.org/mbostock/3884955)
+
+
+### Tutorials
+[https://square.github.io/intro-to-d3/](https://square.github.io/intro-to-d3/)
