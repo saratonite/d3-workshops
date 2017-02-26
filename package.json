@@ -8,7 +8,8 @@
     "00": "lite-server 00-intro",
     "01": "lite-server 01-data-binding",
     "02": "lite-server 02-static-chart",
-    "03": "lite-server 03-draw-svg"
+    "03": "lite-server 03-draw-svg",
+    "04": "lite-server 04-bar-chart"
   },
   "author": "sarath",
   "license": "MIT",
