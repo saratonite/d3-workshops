@@ -1,3 +1,10 @@
+(function(){
+
+/////////////////
+
+
+
+// From CSV
 var svg = d3.select("#stacked"),
     margin = {top: 20, right: 180, bottom: 30, left: 40},
     width = +svg.attr("width") - margin.left - margin.right,
@@ -68,6 +75,8 @@ d3.csv("segments_table2.csv", type, function(error, data) {
       .attr("fill", "#000")
       .text("Population");
 
+      // Legend Code
+
   var legend = g.selectAll(".legend")
     .data(data.columns.slice(1).reverse())
     .enter().append("g")
@@ -94,3 +103,9 @@ function type(d, i, columns) {
   d.total = t;
   return d;
 }
+
+
+
+//////////////////
+
+})();
