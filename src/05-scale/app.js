@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded',function(){
 
-  var data = [20,100,50,280]
+  var data = [20,100,50,280,50,150,163]
 
   var width = 280;
   var height = 280;

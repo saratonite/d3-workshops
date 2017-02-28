@@ -8,6 +8,41 @@
     <script src="d3.min.js" charset="utf-8"></script>
   </head>
   <style media="screen">
+  widget {
+  margin: 0 auto;
+  width:350px;
+  margin-top:50px;
+  background-color:#fff;
+  -background-color: #222D3A;
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.3);
+
+}
+
+.header{
+  background-color: #eee;
+  height:40px;
+  color:#555;
+  text-align: center;
+  line-height: 40px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  font-weight: 400;
+  font-size: 1.5em;
+  text-shadow: 1px 1px #fff;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.chart-container{
+  padding:25px;
+}
+
+.axis path,
+.axis line {
+fill: none;
+stroke: #000;
+shape-rendering: crispEdges;
+}
 
   </style>
   <body class="app-container">
@@ -17,17 +52,14 @@
         <small>Stacked Bar chart (Not completed)</small>
       </header>
       <main>
-        <div id="stackedbars" style="background-color:#fff">
-          <svg id="stacked" width="900" height="500"></svg>
-        </div>
+
 
 
       </main>
       <footer>
         Built with all love in the WORLD by Sarath
       </footer>
-      <script src="app.js" charset="utf-8"></script>
-  
+      <script src="example2.js" charset="utf-8"></script>
 
   </body>
 </html>
