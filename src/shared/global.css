@@ -21,7 +21,7 @@ html,body{
 }
 
 header{
-  background-color: #3e0e69;
+  background-color: rgba(25,70,100,1);
   padding: 5px;
   color: #fff;
   display: flex;

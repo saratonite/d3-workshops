@@ -23,3 +23,11 @@ https://github.com/dc-js/dc.js/issues/1173
 
 ### Tutorials
 [https://square.github.io/intro-to-d3/](https://square.github.io/intro-to-d3/)
+
+[Line Chart](http://www.d3noob.org/2016/08/create-simple-line-graph-using-d3js-v4.html)
+
+### Books
+[D3 Tips and Tricks ](https://leanpub.com/d3-t-and-t-v4/read)
+
+## Game
+[d3 Garden ](https://www.rtfmanual.io/d3garden/)
