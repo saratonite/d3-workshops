@@ -1,6 +1,13 @@
 # D3 Workshops
 
-
+## Installation
+```
+npm install
+```
+OR 
+```
+yarn install
+```
 ### Reference
 [D3 Barchart example ](https://bl.ocks.org/mbostock/3886394)
 
