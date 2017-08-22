@@ -14,7 +14,8 @@
     "05": "lite-server 05-scale",
     "06": "lite-server 06-stacked-bar-chart",
     "07": "lite-server 07-line-chart",
-    "08": "lite-server 08-heat-map"
+    "08": "lite-server 08-heat-map",
+    "09": "lite-server 09-calendar-heatmap"
   },
   "author": "sarath",
   "license": "MIT",
