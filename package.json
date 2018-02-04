@@ -1,26 +1,27 @@
 {
   "name": "d3-workshops",
-  "version": "1.0.0",
-  "description": "D3 experiments",
+  "version": "2.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "play": "lite-server 00-play",
-    "00": "lite-server 00-intro",
-    "01": "lite-server 01-data-binding",
-    "02": "lite-server 02-static-chart",
-    "03": "lite-server 03-draw-svg",
-    "04": "lite-server 04-bar-chart",
-    "05": "lite-server 05-scale",
-    "06": "lite-server 06-stacked-bar-chart",
-    "07": "lite-server 07-line-chart",
-    "08": "lite-server 08-heat-map",
-    "09": "lite-server 09-calendar-heatmap"
+    "sample": "parcel ./src/sample/index.html"
   },
-  "author": "sarath",
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saratonite/d3-workshops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saratonite/d3-workshops/issues"
+  },
+  "homepage": "https://github.com/saratonite/d3-workshops#readme",
   "devDependencies": {
-    "browser-sync": "^2.18.8",
-    "lite-server": "^2.2.2"
+    "parcel-bundler": "^1.5.1"
+  },
+  "dependencies": {
+    "d3": "^4.13.0"
   }
 }
