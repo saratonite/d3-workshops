@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sample": "parcel ./src/sample/index.html"
+    "sample": "parcel ./src/sample/index.html",
+    "create": "bash ./create.sh",
+    "basic-data-binding": "parcel src/basic-data-binding/index.html"
   },
   "repository": {
     "type": "git",
