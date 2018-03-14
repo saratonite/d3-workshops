@@ -2,7 +2,6 @@
 
 ## TODOS
 
-+ [ ] D3 Basic Example
 
 
 

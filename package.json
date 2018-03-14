@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sample": "parcel ./src/sample/index.html",
-    "create": "bash ./create.sh",
-    "basic-data-binding": "parcel src/basic-data-binding/index.html"
+    "01": "parcel ./src/01-install-and-configure/index.html --open",
+    "02": "parcel ./src/02-linear-scales/index.html --open"
   },
   "repository": {
     "type": "git",
@@ -21,10 +21,11 @@
   },
   "homepage": "https://github.com/saratonite/d3-workshops#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.5.1",
+    "parcel-bundler": "^1.6.2",
     "postcss-modules": "^1.1.0"
   },
   "dependencies": {
+    "babel-preset-env": "^1.6.1",
     "d3": "^4.13.0"
   }
 }
