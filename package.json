@@ -6,8 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sample": "parcel ./src/sample/index.html",
+    "create": "bash ./create.sh",
     "01": "parcel ./src/01-install-and-configure/index.html --open",
-    "02": "parcel ./src/02-linear-scales/index.html --open"
+    "02": "parcel ./src/02-linear-scales/index.html --open",
+    "03": "parcel src/03-time-scales/index.html --open"
   },
   "repository": {
     "type": "git",

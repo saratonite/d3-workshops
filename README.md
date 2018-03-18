@@ -2,6 +2,8 @@
 
 ## TODOS
 
++ [x] Install and configuration
++ [x] Linear scales
 
 
 
