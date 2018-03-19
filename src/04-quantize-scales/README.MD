@@ -1,0 +1,1 @@
+# Create Labels from Numeric Data with Quantize Scales in D3 v4
