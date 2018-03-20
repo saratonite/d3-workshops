@@ -10,7 +10,8 @@
     "01": "parcel ./src/01-install-and-configure/index.html --open",
     "02": "parcel ./src/02-linear-scales/index.html --open",
     "03": "parcel src/03-time-scales/index.html --open",
-    "04": "parcel src/04-quantize-scales/index.html"
+    "04": "parcel src/04-quantize-scales/index.html",
+    "05": "parcel src/05-ordinal-scales/index.html"
   },
   "repository": {
     "type": "git",
