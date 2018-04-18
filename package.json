@@ -11,7 +11,8 @@
     "02": "parcel ./src/02-linear-scales/index.html --open",
     "03": "parcel src/03-time-scales/index.html --open",
     "04": "parcel src/04-quantize-scales/index.html",
-    "05": "parcel src/05-ordinal-scales/index.html"
+    "05": "parcel src/05-ordinal-scales/index.html",
+    "06": "parcel src/06-loading-data/index.html"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
   },
   "dependencies": {
     "babel-preset-env": "^1.6.1",
-    "d3": "^4.13.0"
+    "d3": "^4.13.0",
+    "d3-request": "^1.0.6"
   }
 }
