@@ -12,7 +12,8 @@
     "03": "parcel src/03-time-scales/index.html --open",
     "04": "parcel src/04-quantize-scales/index.html",
     "05": "parcel src/05-ordinal-scales/index.html",
-    "06": "parcel src/06-loading-data/index.html"
+    "06": "parcel src/06-loading-data/index.html",
+    "07": "parcel src/07-select-dom-elements/index.html"
   },
   "repository": {
     "type": "git",
